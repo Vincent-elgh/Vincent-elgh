@@ -1,5 +1,11 @@
-### Hi there, I'm Vincent👋
+## Hi there, I'm Vincent👋
+## Welcome to my GitHub!
 
-- 🌱 I am a Master of Management in Analytics at McGill University
-- 💼 I worked as an engineer in the oil field for 4+ years
-- 🛠️ I am proficient in SQL, Python, and R. I am currently learning and honing data analytics skills such as machine learning, predictive modeling, and artificial intelligence
+
+🎓 Currently a Master's of Management in Analytics @ McGill University
+👀 Interested in the power of analytics, machine learning, and AI
+💼 Worked in the energy sector for 4+ years
+🕹️ Hobbies include hiking and climbing, video games, gardening and history, specifically Roman and Byzantine History
+📫 Reach me via email at vincent.elghoubaira@mail.mcgill.ca
+
+Thank you for visiting my profile :)
