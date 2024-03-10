@@ -1,5 +1,5 @@
 ## Hi there, I'm Vincent👋
-## Welcome to my GitHub!
+### Welcome to my GitHub!
 
 
 - 🎓 Currently a Master's of Management in Analytics @ McGill University
